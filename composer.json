@@ -1,0 +1,25 @@
+{
+    "name": "mugua/magento2-chinese-language-package",
+    "description": "Chinese (China) language package for Magento 2",
+    "homepage": "https://github.com/mugua",
+    "type": "magento2-language",
+    "version": "2.4.7.1",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": [
+    "MIT"
+    ],
+    "authors": [
+    {
+      "name": "John Lou",
+      "email": "john.lou@msn.com",
+      "homepage": "https://github.com/mugua",
+      "role": "Leader"
+    }
+   ],
+   "autoload": {
+    "files": [
+      "registration.php"
+    ]
+   }
+}
