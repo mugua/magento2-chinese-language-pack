@@ -4,7 +4,7 @@
     "homepage": "https://github.com/mugua",
     "type": "magento2-language",
     "version": "2.4.7.1",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-main",
     "prefer-stable": true,
     "license": [
     "MIT"
